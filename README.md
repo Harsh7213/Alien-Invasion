@@ -32,7 +32,9 @@ keyboard library --> pip install keyboard
 # Controls
 
   .space bar - shoot bullets
+  
   .Arrows keys (left-right) - move ship left/right
+  
   .press q to quite the game.
 
 Enjoy!!
