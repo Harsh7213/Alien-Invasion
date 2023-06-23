@@ -15,7 +15,7 @@ I have done some tweaks with the original project and uploaded the project here.
 
 clone the Repository
 
-$ git clone https://github.com/Harshx5241544849/Alien-Invasion.git
+$ git clone https://github.com/Harsh7213/Alien-Invasion.git
 
 $ cd Alien-Invasion
 
