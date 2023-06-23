@@ -12,12 +12,16 @@ I have done some tweaks with the original project and uploaded the project here.
 # Download & Run
 clone the Repository
 $ git clone https://github.com/Harshx5241544849/Alien-Invasion.git
+
 $ cd Alien-Invasion
+
 $ python3 alien_invasion.py
 
 # Requirement
 Python3+         --> Install from official Website: https://www.python.org/downloads/
+
 pygame library   --> python3 -m pip install -U pygame --user
+
 keyboard library --> pip install keyboard
  
 # Controls
