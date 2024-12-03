@@ -1,6 +1,6 @@
 # Alien-Invasion
 
-A 2D based game in which the aim is to shoot down a fleet of aliens as they drop down the screen in levels that increase in speed and difficulty with increasing levels.  
+A 2D based game in which the aim is to shoot down a fleet of aliens as they drop down the screen.The difficulty increase as level of the player increases simultaneously speed of alien coming also increases.  
 
 # ScreenShot
 
@@ -9,7 +9,7 @@ A 2D based game in which the aim is to shoot down a fleet of aliens as they drop
 # Introduction
 
 This game is developed with the help of project in "Python Crash Course- A Hands-On, Project-Based Introduction to Programming" by Eric Matthe's book. 
-I have done some tweaks with the original project and uploaded the project here.
+I have done some tweaks in the original project.
 
 # Download & Run
 
