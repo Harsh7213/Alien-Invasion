@@ -1,6 +1,6 @@
 # Alien-Invasion
 
-A 2D based game in which the aim is to shoot down a fleet of aliens as they drop down the screen.The difficulty increase as level of the player increases simultaneously speed of alien coming also increases.  
+A 2D python based game where aim of the player is to shoot down a fleet of aliens as they drop down the screen. The difficulty increase as level of the player increases simultaneously speed of alien coming also increases
 
 # ScreenShot
 
